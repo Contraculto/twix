@@ -1,2 +1,2 @@
-# twix
-Twitter image extractor
+# Twix
+Twitter Image Extractor

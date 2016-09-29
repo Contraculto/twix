@@ -1,0 +1,37 @@
+{
+  "name": "twix",
+  "version": "1.0.0",
+  "description": "Twitter Image Extractor",
+  "main": "twix.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Contraculto/twix.git"
+  },
+  "keywords": [
+    "twitter",
+    "images",
+    "stream",
+    "extrac",
+    "photo",
+    "social",
+    "network"
+  ],
+  "author": "Rodrigo lanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Contraculto/twix/issues"
+  },
+  "homepage": "https://github.com/Contraculto/twix#readme",
+  "dependencies": {
+    "fs": "0.0.2",
+    "futures": "^2.3.3",
+    "graceful-fs": "^4.1.5",
+    "http": "0.0.0",
+    "mkdirp": "^0.5.1",
+    "twit": "^2.2.4",
+    "underscore": "^1.8.3"
+  }
+}
