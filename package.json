@@ -14,7 +14,7 @@
     "twitter",
     "images",
     "stream",
-    "extrac",
+    "extract",
     "photo",
     "social",
     "network"
@@ -24,13 +24,10 @@
   "bugs": {
     "url": "https://github.com/Contraculto/twix/issues"
   },
-  "homepage": "https://github.com/Contraculto/twix#readme",
+  "homepage": "https://contraculto.com/twix",
   "dependencies": {
     "fs": "0.0.2",
-    "futures": "^2.3.3",
-    "graceful-fs": "^4.1.5",
     "http": "0.0.0",
-    "mkdirp": "^0.5.1",
     "twit": "^2.2.4",
     "underscore": "^1.8.3"
   }
